@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(228, 247, 240);
+}
+
+.sistemes{
+    background-color: #088000;
+    text-align: center;
+    font-size: medium;
+    color: white;
+}
+
+.Seguretat{
+    background-color: #84818E;
+    text-align: center;
+    font-size: medium;
+    color: white;
+}
+
+
+.sx{
+    background-color: #290087;
+    text-align: center;
+    font-size: medium;
+    color: white;
+}
+.empresa{
+    background-color: #4ABD8C;
+    text-align: center;
+    font-size: medium;
+    color: white;
+}
+
+.AW{
+    background-color: #8DEE00;
+    text-align: center;
+}
+
+.pati{
+    background-color: rgb(175, 233, 233);
+    text-align: center;
+    font-size: medium;
+}
+
+.hora{
+    text-align: center;
+    font-size: medium;
+    background-color: aliceblue;
+}
