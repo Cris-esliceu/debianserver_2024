@@ -2,6 +2,17 @@ body{
     background-color: rgb(228, 247, 240);
 }
 
+table{
+    width: 50%;
+    text-align: center;
+    padding: 1rem;
+    margin: 2rem auto;
+    border: 2px solid ;
+    box-shadow: 0 0 5px rgb (0, 0, 0.2);
+    font-size: 1.2rem;
+    border-collapse: collapse;
+    border-color: black;
+}
 .sistemes{
     background-color: #088000;
     text-align: center;
