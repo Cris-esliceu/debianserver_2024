@@ -1,4 +1,33 @@
 h4{
-    color: red;
+    padding: auto;
+    border-radius: 5px;
+    font-size: medium;
+    color:#700756;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    padding: auto;
+    border-radius: 5px;
+    font-size: medium;
+    color: black;
+}
+img{
+    width: 15%;
+    border-radius: 10px;
 }
 
+a{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: white;
+    background-color:#915c84;
+}
+
+a:visited{
+    text-decoration: none;
+    text-transform: none;
+}
