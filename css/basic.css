@@ -7,3 +7,33 @@ img{
     width: 8%;
     border-radius: 10px;
 }
+
+h1{
+    font-weight: 700;
+    text-align: center;
+
+}
+
+.index{
+    text-align: right;
+}
+
+.fd{
+    margin-bottom: 10px;
+    text-align: center;
+}
+.flexconte
+
+.caja{
+    border: 1px solid rgb( 70, 69, 69);
+    background-color: white;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    width: 120px;
+    height: 120px;
+    line-height: 120px;
+    text-align: center;
+    margin: 5px;
+
+}
+
