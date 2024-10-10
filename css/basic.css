@@ -1,0 +1,9 @@
+body{
+    font-family: 'Asul', sans-serif;
+    font-size: 16px; /*1rem =16 px*/
+}
+
+img{
+    width: 8%;
+    border-radius: 10px;
+}
